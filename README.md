@@ -1,3 +1,4 @@
 # demo
-this is my first git repository
-Author - hussamuddin ujjainwala
+this is my first git repository.
+<br>
+Author - hussamuddin ujjainwala.
